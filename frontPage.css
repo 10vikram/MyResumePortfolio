@@ -1,0 +1,15 @@
+html{
+    background-color: rgb(209, 185, 156);
+}
+
+.headerWidth{
+    width: 54%;
+    display: table-header-group;
+}
+
+.profilePicture{
+    width: 60px;
+    margin-left: 100%;
+    border-style: dashed;
+    background-color: rgb(122, 92, 92);
+}
