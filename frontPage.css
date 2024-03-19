@@ -1,5 +1,18 @@
-html{
+#htmlStyle{
+    width: 80%; 
+    margin-left: 10%;
     background-color: rgb(209, 185, 156);
+}
+
+#nameStyle{
+    width: 50%; display: inline-block;
+}
+#titleStyle{
+    width: 40%; display: inline-block;
+}
+
+#titleColor{
+color:rgb(68, 69, 48);
 }
 
 .headerWidth{
